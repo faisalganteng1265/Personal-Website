@@ -13,7 +13,9 @@ export default function Home() {
             whiteSpace: 'nowrap'
           }}
         >
-          ABIYYU FAISAL AKMAL
+          ABIYYU
+
+          
         </h1>
         <Image
           src="/faisal.png"
