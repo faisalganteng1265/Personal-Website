@@ -7,8 +7,8 @@ export default function Home() {
         <h1
           className="font-american-captain z-0 absolute"
           style={{
-            color: '#ffffff',
-            fontSize: '120px',
+            color: '#000000',
+            fontSize: '100px',
             transform: 'translate(0px, -50px) scaleY(1.5)',
             whiteSpace: 'nowrap'
           }}
